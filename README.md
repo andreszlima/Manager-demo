@@ -39,7 +39,8 @@ Usuário pode atualizar o perfil com sua foto
 - Geração de relatório de dias e horas trabalhadas por funcionário e por local de trabalho, com possibilidade de exportação para Excel, cópia ou impressão em apenas um clique
 - Geração de folha com todas as marcações de folha de ponto de cada funcionário com linha para assinatura após cada marcação, para que o funcionário possa assinar ao final do mês e entregar ao RH
 - Ao serem realizados requerimentos de férias, tanto usuário quanto gerentes (da mesma unidade) e administradores gerais receberão uma mensagem automática, para que analisem.
-- Informações adicionais de segurança:
+
+### Informações adicionais de segurança:
 - Todos os arquivos enviados ao site são criptografados e armazenados na nuvem da Amazon. Os links para visualização expiram após 5 minutos que a página foi aberta. Isso possibilta maior segurança aos dados. Após este tempo basta recarregar a página que um novo link é gerado e o arquivo pode ser acessado automaticamente, sem que o usuário perceba.
 - As senhas dos usuários também são criptografadas. Nem administrador nem quem tem acesso ao banco de dados tem acesso às senhas, que são armazenadas através do que é chamado de "hash". Um exemplo é a senha '123456', que está armazenada no banco de dados como "$2a$11$NRgCPQZWSI5gU64FB/aJ2uHYWIcetg6oLTxYYX.02B8S6CPDE59la". Isso é muito importante para a segurança das informações.
 - O site possui certificado de segurança SSL, que permite a comunicação criptografada entre um site e um navegador, oferecendo mais uma camada de segurança.
