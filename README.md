@@ -2,7 +2,7 @@
 ## Aplicação gerenciamento de RH
 
 ### Demonstração
-Caso queira testar o aplicativo online, vá para o link: [https://immense-escarpment-11106.herokuapp.com](https://immense-escarpment-11106.herokuapp.com).<br>
+Caso queira testar o aplicativo online, vá para o link: [https://immense-escarpment-11106.herokuapp.com](https://immense-escarpment-11106.herokuapp.com) - O primeiro carregamento deve demorar um pouco, já que o aplicativo hiberna após 30 min de inatividade. Caso ele não abra depois de algum tempo carregando me envie um e-mail que colocarei em funcionamento novamente.<br>
 
 ### Parte externa do site
 - Página inicial estática, com informações sobre a empresa. A princípio eu coloquei informações sobre o que pode ser feito e tudo mais, mas tudo isso pode ser alterado pra que tudo fique com logo da sua empresa, informações daí e tudo mais.
