@@ -6,7 +6,7 @@ Caso queira testar o aplicativo online, vá para o link: [https://immense-escarp
 
 ### Parte externa do site
 - Página inicial estática, com informações sobre a empresa. A princípio eu coloquei informações sobre o que pode ser feito e tudo mais, mas tudo isso pode ser alterado pra que tudo fique com logo da sua empresa, informações daí e tudo mais.
-- Login pode ser feito com e-mail ou nome de usuário cadastrado pelo usuário, o que este achar mais conveniente
+- Login pode ser feito com e-mail ou nome de usuário cadastrado pelo usuário, o que este achar mais conveniente. Caso queira testar, me envie um e-mail e criarei usuários de diferentes níveis para testes.
 - Parte interna do site (área exclusiva a usuários cadastrados)
 
 ### Níveis de usuários:
